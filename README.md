@@ -32,7 +32,7 @@ This program was developed by [Your Name] as a project to enhance arithmetic ski
 ASCII art for the program logo is from [source].
 
 ## License
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
+Anyone can use this
 
 ## Note
 For optimal experience, ensure your system supports playing sound effects using the Windows API.
